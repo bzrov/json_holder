@@ -1,4 +1,6 @@
 {
-  "status": "ok",
-  "message": "Shared"
+  "appointments": {
+      "status": "ok",
+      "message": "Shared"
+    }
 }
